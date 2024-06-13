@@ -1,0 +1,3222 @@
+
+   
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.3/tailwind.min.css" defer>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/5.3.45/css/materialdesignicons.min.css" defer>
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no">
+<meta name="csrf_token" content="Ijo7eM1jvHYQsM6nPtY2OQgEKpNt7LlK9rCBc7CZef4RvcRnhCHfsHsSL0Z0UiEA" />
+<meta name="google-site-verification" content="Ptgc0Clziie1r0ZWvOMAk49vNqBFs-5jnVKCDyGRNHM" />
+<link rel="shortcut icon" href="/static/mobile/images/header/favicon-new.ico">
+<link rel="dns-prefetch" href="//api-widget.soundcloud.com">
+<link rel="dns-prefetch" href="//wave.sndcdn.com">
+<link rel="dns-prefetch" href="//www.google.com">
+<link rel="dns-prefetch" href="//i1.sndcdn.com">
+<link rel="dns-prefetch" href="//www.google.co.in">
+<link rel="dns-prefetch" href="//static.doubleclick.net">
+<link rel="dns-prefetch" href="//googleads.g.doubleclick.net">
+<link rel="dns-prefetch" href="//widget.sndcdn.com">
+<link rel="dns-prefetch" href="//img.youtube.com">
+<link rel="dns-prefetch" href="//stats.g.doubleclick.net">
+
+<title>Book Artists for Events - Hire Bands, Singers, Comedians, Celebrities, DJs - StarClinch</title>
+<meta name="description" content="StarClinch - India&#039;s First Online Artist Booking &amp; Discovery Portal with EMI Payment Facility. 17,000+ Local &amp; International Artists / Acts | 14 Talent Categories, 450+ Cities | Artist in Every Budget" />
+<meta property="og:title" content="StarClinch.com" />
+<meta property="og:url" content="https://starclinch.com" />
+<meta property="og:site_name" content="StarClinch" />
+<meta property="og:image" content="/static/images/dotcom/favicon.png" />
+<meta name="twitter:title" content="StarClinch" />
+<meta name="twitter:description" content="StarClinch - India&#039;s First Online Artist Booking &amp; Discovery Portal with EMI Payment Facility. 17,000+ Local &amp; International Artists / Acts | 14 Talent Categories, 450+ Cities | Artist in Every Budget" />
+
+
+<script src="/static/mobile/js/jquery-3.4.1.min.js" type="0a40159672ac69a8fd73c60c-text/javascript"></script>
+
+<script defer src="https://cdn.jsdelivr.net/npm/vue@2.6.11" type="0a40159672ac69a8fd73c60c-text/javascript"></script>
+<link async href="https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700&display=swap" rel="stylesheet" defer>
+
+<link async rel="stylesheet" href="/static/css/bootstrap.min.css" defer>
+<link async href="/static/mobile/css/header.css?a=25" rel="stylesheet" />
+<link async rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link href="/static/mobile/css/swiper.min.css" rel="stylesheet" defer />
+<link href="/static/mobile/css/home.css?a=25" rel="stylesheet" defer />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P35Z5768SY" type="0a40159672ac69a8fd73c60c-text/javascript"></script>
+<script type="0a40159672ac69a8fd73c60c-text/javascript">
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-P35Z5768SY');
+    </script>
+
+<script type="0a40159672ac69a8fd73c60c-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KWD923M');
+    </script>
+
+<style>
+        @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');  
+    </style>
+
+<style>
+       
+        .autofocus-icon {
+          cursor: pointer;
+          color: blue;
+        }
+      </style>
+<style>
+        .videods {
+            width: 171px;
+            height: 300px;
+        }
+        
+        @media (max-width:991px) {
+            .videomb {
+                width: auto;
+                height: auto;
+            }
+            .artist-looking-section {
+                margin: 31px 0 0 0;
+            }
+        }
+        
+        .artist-looking-section {
+            margin: 84px 0 0 0;
+        }
+
+        @media screen and (max-width: 990px) and (min-width: 279px){
+        .container-btn {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        
+                }
+        }
+        @media screen and (min-width:767px) {
+            #red-rounded-btn{
+                margin-left: 25px;
+            }
+        }
+   
+  
+  
+    .suggestion:hover {
+        background-color: #6d6b6b;
+        color: #fffefe;
+        border-radius: 8px;
+        border: none;
+        cursor: pointer;
+    }
+  
+    .singer-image {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        margin-right: 10px;
+        margin-top: 5px;
+    }
+  
+    .singer-name {
+        font-weight: bold;
+        margin-top: 10px;
+    }
+
+
+    .singer-description {
+        font-size: 5px;
+        color: #f6eeee;
+        margin-top: 5px;
+    }
+
+    .suggestion {
+        background-color: rgb(36, 35, 35);
+        padding: 10px;
+        border: 1px solid #504e4e;
+        border-radius: 5px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        cursor: pointer;
+    }
+
+    .singer-info {
+    display: flex;
+    align-items: center;
+    }
+
+    .singer-image {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+    }
+
+    .singer-details {
+    display: flex;
+    flex-direction: column;
+    }
+
+    .singer-name {
+        color: #f6eeee;
+    font-size: 18px;
+    font-weight: bold;
+    }
+
+    .singer-description {
+    font-size: 14px;
+    color: #bfbcbc;
+    }
+
+    .category-item-menu p {
+        margin: 0 0 15px 0;
+        font-size: 10px;
+        font-weight: 600;
+    }
+
+   
+    .dropdown-search .submenu {
+        left: -1101px;
+    }
+
+ 
+
+
+    @media (max-width: 1279px) and (min-width: 768px) {
+            .dropdown-search .submenu {
+            left: -1098px;
+        }
+    }
+
+
+    @media (max-width: 767px) {
+        .dropdown-search .submenu {
+            position: relative; 
+            left: 0; 
+            top: 100%; 
+            width: 100%; 
+        }
+    }
+    </style>
+<script type="0a40159672ac69a8fd73c60c-text/javascript">
+        var csrf_token = "Ijo7eM1jvHYQsM6nPtY2OQgEKpNt7LlK9rCBc7CZef4RvcRnhCHfsHsSL0Z0UiEA";
+        
+    </script>
+
+</head>
+<body class="artist-profile-body">
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KWD923M"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<header class="new_header">
+<div class="container">
+<div class="row">
+<div class="col-6 col-sm-4 col-md-3 col-lg-2">
+<div class="logo">
+<a href="/">
+<img src="/static/images/home/StarClinch-Logo-new.svg" alt="StarClinch" class="img-fluid">
+</a>
+</div>
+</div>
+<div class="col-6 col-sm-8 col-md-9 col-lg-10">
+<div class="responsive-menu">
+<ul>
+<li>
+<span class="search-icon-responsive">
+<i class="fa fa-search fa-1x" style="color: #fb6432;font-size:20px"></i>
+</span>
+</li>
+<li>
+<span class="hamburger-icon">
+<img class="img-fluid" src="/static/images/hamburger.png" alt>
+</span>
+</li>
+</ul>
+</div>
+<div class="menu">
+<div class="d-lg-none text-right">
+<div class="close-icon">
+<i class="fa fa-times"></i>
+</div>
+</div>
+<ul>
+<li class="dropdown-div browse-by-category">
+<a class="dropdown-link" href="#" on="tap:my-dropdown.toggle">Celebrities<i class="fa fa-angle-down"></i></a>
+<div class="submenu">
+<div class="row align-items-center">
+<div>
+<div class="category-item-menu category-item-links">
+<ul>
+<li class="dropdown">
+<span class="submenu-icons">
+-->
+<img src="/static/images/book-anchor-online.svg" alt>
+</span>
+<span class="submenu-links">
+<a class="sub-menu-target" href="/book-anchor-online">Anchor/Emcee</a>
+</span>
+</li>
+<li class="dropdown">
+<span class="submenu-icons">
+-->
+<img src="/static/images/book-celebrity-online.svg" alt>
+</span>
+<span class="submenu-links">
+<a class="sub-menu-target" href="/book-celebrity-online">Celebrity Appearance</a>
+</span>
+</li>
+<li class="dropdown">
+<span class="submenu-icons">
+-->
+<img src="/static/images/book-comedian-online.svg" alt>
+</span>
+<span class="submenu-links">
+<a class="sub-menu-target" href="/book-comedian-online">Comedian</a>
+</span>
+</li>
+<li class="dropdown">
+<span class="submenu-icons">
+-->
+<img src="/static/images/book-dancer-online.svg" alt>
+</span>
+<span class="submenu-links">
+<a class="sub-menu-target" href="/book-dancer-online">Dancer/Troupe</a>
+</span>
+</li>
+<li class="dropdown">
+<span class="submenu-icons">
+-->
+<img src="/static/images/book-dj-online.svg" alt>
+</span>
+<span class="submenu-links">
+<a class="sub-menu-target" href="/book-dj-online">Dj</a>
+</span>
+</li>
+<li class="dropdown">
+<span class="submenu-icons">
+-->
+<img src="/static/images/book-instrumentalist-online.svg" alt>
+</span>
+<span class="submenu-links">
+<a class="sub-menu-target" href="/book-instrumentalist-online">Instrumentalist</a>
+</span>
+</li>
+<li class="dropdown">
+<span class="submenu-icons">
+-->
+<img src="/static/images/book-band-online.svg" alt>
+</span>
+<span class="submenu-links">
+<a class="sub-menu-target" href="/book-band-online">Live Band</a>
+</span>
+</li>
+<li class="dropdown">
+<span class="submenu-icons">
+-->
+<img src="/static/images/book-magician-online.svg" alt>
+</span>
+<span class="submenu-links">
+<a class="sub-menu-target" href="/book-magician-online">Magician</a>
+</span>
+</li>
+<li class="dropdown">
+<span class="submenu-icons">
+-->
+<img src="/static/images/book-makeup-artist-online.svg" alt>
+</span>
+<span class="submenu-links">
+<a class="sub-menu-target" href="/book-makeup-artist-online">Make-Up Artist/Stylist</a>
+</span>
+</li>
+<li class="dropdown">
+<span class="submenu-icons">
+-->
+<img src="/static/images/book-model-online.svg" alt>
+</span>
+<span class="submenu-links">
+<a class="sub-menu-target" href="/book-model-online">Model</a>
+</span>
+</li>
+<li class="dropdown">
+<span class="submenu-icons">
+-->
+<img src="/static/images/book-photographer-online.svg" alt>
+</span>
+<span class="submenu-links">
+<a class="sub-menu-target" href="/book-photographer-online">Photo/Videographer</a>
+</span>
+</li>
+<li class="dropdown">
+<span class="submenu-icons">
+-->
+<img src="/static/images/book-singer-online.svg" alt>
+</span>
+<span class="submenu-links">
+<a class="sub-menu-target" href="/book-singer-online">Singer</a>
+</span>
+</li>
+<li class="dropdown">
+<span class="submenu-icons">
+-->
+<img src="/static/images/book-speaker-online.svg" alt>
+</span>
+<span class="submenu-links">
+<a class="sub-menu-target" href="/book-speaker-online">Speaker</a>
+</span>
+</li>
+<li class="dropdown">
+<span class="submenu-icons">
+-->
+<img src="/static/images/book-variety-artist-online.svg" alt>
+</span>
+<span class="submenu-links">
+<a class="sub-menu-target" href="/book-variety-artist-online">Variety Artist</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="dropdown-div aritist-dropdown-div">
+<a class="dropdown-link" href="#" onclick="if (!window.__cfRLUnblockHandlers) return false; return false;" data-cf-modified-0a40159672ac69a8fd73c60c->Join community<i class="fa fa-angle-down"></i></a>
+<div class="submenu">
+<div class="category-item-menu category-item-links">
+<div class="sub-menu-img">
+<img src="/static/images/header/artist_menu_image.svg" alt>
+</div>
+<ul>
+<li>
+<span class="submenu-icons">
+<img src="/static/images/header/login.svg" alt>
+</span>
+<span class="submenu-links">
+<a href="/artist">Login</a>
+</span>
+</li>
+<li>
+<span class="submenu-icons">
+<img src="/static/images/header/signup.svg" alt>
+</span>
+<span class="submenu-links">
+<a href="/artist">Signup</a>
+</span>
+</li>
+<li>
+<span class="submenu-icons">
+<img src="/static/images/header/jobs.svg" alt>
+</span>
+<span class="submenu-links">
+<a href="/jobs">Jobs</a>
+</span>
+</li>
+<li>
+<span class="submenu-icons">
+<img src="/static/images/header/artists_subscription.svg" alt>
+</span>
+<span class="submenu-links">
+<a href="/artist-subscriptions">Artist Membership</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<div class="container-btn">
+<li style="width: auto;" class="pyr-btn-list"><a id="red-rounded-btn" class="btn red-rounded-btn" href="/book">Post Your Requirement</a>
+</li>
+</div>
+<li class="dropdown-div dropdown-search">
+<a class="dropdown-link" href="javascript:void(0)">
+<i class="autofocus-icon fa fa-search fa-1x" id="autofocus-trigger" style="color: #fb6432; font-size:20px"></i>
+</a>
+<div class="submenu" style="padding-bottom:0px">
+<div class="row align-items-center">
+<div class="col-md-12 col-lg-12">
+<div class="category-item-menu">
+<div class="search-top">
+<form method="get" action="/search" style="margin-bottom: 0px;">
+<input style="border-radius:10px;border-radius:10px;background-color:#101010;padding: 15px 45px 16px 16px;" type="text" id="query" name="q" class="form-control search-input ui-autocomplete-input" placeholder="What are you looking for?" autocomplete="off" required oninvalid="if (!window.__cfRLUnblockHandlers) return false; this.setCustomValidity('Search Artist...')" data-cf-modified-0a40159672ac69a8fd73c60c- />
+<div id="autocomplete-results" style="border: none;"></div>
+<button style="background:transparent;font-weight: 600;right:17px;border-radius:10px;color:white;top:27px;padding: 8px 20px;" type="submit" class="close-search search-button">
+<img src="/static/thehunt1/assets/img/send.png" alt>
+</button>
+<div class="border border-top-0 border-bottom-0 search-dropdown pl-3 pr-3" id="query_results" style="display:none;"></div>
+</form>
+<div style="float: right;">
+<span style="display:flex;margin-top: 10px;margin-bottom: 0px;"><p style="font-weight: 600;color: white;font-size: 10px;">Powered By </p><img style="height: 15px;padding-left: 3px;" src="/static/thehunt1/assets/img/chat_white.png" alt></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</header>
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.11" type="0a40159672ac69a8fd73c60c-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.min.js" type="0a40159672ac69a8fd73c60c-text/javascript"></script>
+
+<script type="0a40159672ac69a8fd73c60c-text/javascript">
+    var input_query = document.getElementById('query');
+    var resultsContainer = document.getElementById('autocomplete-results');
+    var searchIcon = document.getElementById('autofocus-trigger');
+    function debounce(func, wait) {
+      let timeout;
+      return function (...args) {
+        clearTimeout(timeout);
+        timeout = setTimeout(() => {
+          func.apply(this, args);
+        }, wait);
+      };
+    }
+    var debounceInputHandler = debounce(() => {
+      var inputValue = input_query.value.toLowerCase();
+      fetch(`/search/autocomplete?q=${inputValue}`)
+        .then(response => response.json())
+        .then(data => {
+          var filteredSuggestions = data;
+          renderSuggestions(filteredSuggestions);
+        })
+        .catch(error => {
+        //   console.error('Error fetching suggestions:', error);
+        });
+    }, 300);
+    input_query.addEventListener('input', debounceInputHandler);
+    function renderSuggestions(suggestions) {
+      resultsContainer.innerHTML = '';
+      suggestions.forEach(suggestion => {
+        var suggestionElement = document.createElement('div');
+        suggestionElement.classList.add('autocomplete-suggestion'); 
+        suggestionElement.innerHTML = `
+        <div class="suggestion">
+            <div class="singer-info">
+                <img src="${suggestion.profile_pic}" alt="${suggestion.professional_name}" class="singer-image">
+                <div class="singer-details">
+                    <span class="singer-name">${suggestion.professional_name}</span>
+                    <p class="singer-description">${suggestion.category_name}</p>
+                </div>
+            </div>
+        </div>
+        `;
+        suggestionElement.addEventListener('click', () => {
+            input_query.value = suggestion.professional_name;
+            window.location.href = `/${suggestion.slug}`;
+        });
+        resultsContainer.appendChild(suggestionElement);
+      });
+    }
+
+    
+    document.addEventListener('click', event => {
+        if (!resultsContainer.contains(event.target) && event.target !== input_query) {
+            resultsContainer.innerHTML = '';
+        }
+    });
+  </script>
+
+<script type="0a40159672ac69a8fd73c60c-text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "hnus8271ng");
+</script>
+<script src="https://www.youtube.com/player_api" type="0a40159672ac69a8fd73c60c-text/javascript"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.css" integrity="sha512-UTNP5BXLIptsaj5WdKFrkFov94lDx+eBvbKyoe1YAfjeRPC+gT5kyZ10kOHCfNZqEui1sxmqvodNUx3KbuYI/A==" crossorigin="anonymous" referrerpolicy="no-referrer">
+<br>
+<br>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/alpinejs/2.8.0/alpine.js" type="0a40159672ac69a8fd73c60c-text/javascript"></script>
+<style>
+    .scrollbar-w-2::-webkit-scrollbar {
+    width: 0.25rem;
+    height: 0.25rem;
+}
+
+.scrollbar-track-blue-lighter::-webkit-scrollbar-track {
+    --bg-opacity: 1;
+    background-color: #f7fafc;
+    background-color: rgba(247, 250, 252, var(--bg-opacity));
+}
+
+.scrollbar-thumb-blue::-webkit-scrollbar-thumb {
+    --bg-opacity: 1;
+    background-color: #edf2f7;
+    background-color: rgba(237, 242, 247, var(--bg-opacity));
+}
+
+.scrollbar-thumb-rounded::-webkit-scrollbar-thumb {
+    border-radius: 0.25rem;
+}
+/* @media only screen and (min-width:  992px){
+	.pyr-btn-list {
+        display: block;;
+	}
+	} */
+    #pyr-btn-list {
+  display: block; /* or inline-block, depending on your layout */
+}
+
+/* Media query for desktop mode */
+@media screen and (min-width: 990px) {
+    
+    .sticky-btnn{
+        display: none;
+    }}
+
+@media screen and (min-width: 990px) {
+    
+    
+  #pyr-btn-list {
+    display: none;
+  }
+  #artist-looking-section{
+    margin-top: 35px;
+  }
+  #artist-looking-section-2{
+    margin-top: 30px;
+  }
+  .artist-looking-section {
+    margin-top: 40px;
+}
+}
+@media (max-width: 991px){
+.pyr-btn-list {
+    width: unset; 
+    float: left;
+    margin:auto;
+}
+#artist-looking-section{
+    width: auto;
+}
+}
+.post-your-requirement-btn-mobile {
+    background: linear-gradient(-45deg, #F22472, #FB682D);
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 12px 25px;
+    width: auto;
+    /* display: none; */
+    }
+.post-your-requirement-btn-mobile {
+        font-size: 18px;
+        padding: 11px 15px;
+        position: fixed;
+        z-index: 100;
+        width: 100%;
+        display: block;
+        bottom: 0px;
+        
+    }
+
+    .youtube-player.play {
+        display:none;
+    }
+
+</style>
+<style>
+
+
+.audio, canvas, embed, iframe, img, object, svg, video {
+    display: inline;
+    vertical-align: middle;
+}
+</style>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KWD923M"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<div class="sticky-btnn" style="text-align: center;">
+<a class="btn post-your-requirement-btn-mobile" href="/book">Post Your Requirement</a>
+</div>
+<section id="artist-looking-section-2" class="artist-looking-section">
+<div class="container">
+<div class="artist-looking-div">
+<h2 class="artist-looking-heading">Find the perfect <span id="changingword">Anchor</span> for your <span id="changingevent">Wedding </span> event. Book Now! </h2>
+
+<form method="get" action="/search">
+<div class="select-search-div " style="background-color: #212529 ; height: auto; border-radius: 20px;">
+<div x-data="chatBot()">
+<div class="flex-1 p:2 sm:p-6 justify-between flex flex-col h-screen" style="height: auto;">
+<div id="messages" class="flex flex-col space-y-4 p-3 overflow-y-auto scrollbar-thumb-blue scrollbar-thumb-rounded scrollbar-track-blue-lighter scrollbar-w-2 scrolling-touch">
+<template x-for="(message, key) in messages">
+<div>
+<div class="flex items-end" :class="message.from=='bot'?'':'justify-end'">
+<div class="flex flex-col space-y-2 text-md leading-tight max-w-lg mx-2" :class="message.from=='bot'?'order-2 items-start':'order-1 items-end'">
+<div>
+<span style="padding: 8px !important;" class="px-4 py-3 rounded-xl inline-block" :class="message.from=='bot'?'rounded-bl-none bg-gray-100 text-gray-600':'rounded-br-none bg-gray-900 text-white'" x-html="message.text"></span>
+</div>
+</div>
+<img :src="message.from=='bot'?'/static/images/favicon-new.ico':'/static/thehunt1/assets/img/user_icon.png'" alt class="w-6 h-6 rounded-full" :class="message.from=='bot'?'order-1':'order-2'">
+</div>
+</div>
+</template>
+<div x-show="botTyping" style="display: none;">
+<div class="flex items-end">
+<div class="flex flex-col space-y-2 text-md leading-tight mx-2 order-2 items-start">
+<div><img style="border-radius: 20px;" src="https://support.signal.org/hc/article_attachments/360016877511/typing-animation-3x.gif" alt="..." class="w-16 ml-6"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="border-t-2 border-gray-200 px-4 pt-4 sm:mb-0">
+<div class="relative flex">
+<input type="text" style="border-radius: 10px;padding-left: 15px !important;" placeholder="I'm looking for a singer" autofocus autocomplete="off" autofocus="true" @keydown.enter="updateChat($event.target)" class="text-md w-full focus:outline-none focus:placeholder-gray-400 text-gray-600 placeholder-gray-600 pl-5 pr-16 bg-gray-100 border-2 border-gray-200 focus:border-blue-500 rounded-full py-2" x-ref="input" />
+<div class="absolute right-2 items-center inset-y-0 sm:flex" style="display: flex;">
+<button type="submit" style="background-color: transparent;" class="inline-flex items-center justify-center rounded-full h-8 w-8 transition duration-200 ease-in-out text-white bg-blue-500 hover:bg-blue-600 focus:outline-none" @click.prevent="updateChat($refs.input)">
+<img src="/static/thehunt1/assets/img/send.png" alt>
+</button>
+</div>
+</div>
+<div style="float: right;">
+<span style="display:flex;margin: 10px;"><p style="font-weight: 600;color: white;font-size: 10px;">Powered By </p><img style="height: 15px;padding-left: 3px;" src="/static/thehunt1/assets/img/chat_white.png" alt></span>
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+<style>
+                #prevBtn{
+                    display: block;
+                }
+                #nextBtn {
+                    display: block;
+                }
+
+                .hidden {
+                    display: none !important;
+                }
+
+                .btn-tag {
+                    background-color: #ECEFF1;
+                    text-transform: capitalize !important;
+                    margin-bottom: 10px;
+                    box-shadow: none;
+                }
+
+                .btn-tag:hover {
+                    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .25), 0 3px 10px 5px rgba(0, 0, 0, 0.05) !important;
+                }
+                .swiper-slide{
+                    min-width: 220px !important;
+                }
+            </style>
+</div>
+</div>
+</section>
+<br>
+<style>
+    #youtube-player2 {
+        display: none;
+        }
+
+        #thumbnail-container2 {
+        position: relative;
+        display: block;
+        width: 400px;
+        height: 240px;
+        }
+
+        #thumbnail-image2 {
+        width: 100%;
+        height: 100%;
+        }
+    
+</style>
+<style>
+    .youtube-player {
+      position: relative;
+      padding-bottom: 56.25%;
+      height: 0;
+      overflow: hidden;
+      max-width: 100%;
+      background: #000;
+      /* margin: 5px; */
+      height: 500px;
+      width: 256px;
+    }
+  
+    .youtube-player iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 100;
+      background: transparent;
+    }
+  
+    .youtube-player img {
+      object-fit: cover;
+      display: block;
+      left: 0;
+      bottom: 0;
+      margin: auto;
+      max-width: 100%;
+      width: 100%;
+      position: absolute;
+      right: 0;
+      top: 0;
+      border: none;
+      height: auto;
+      cursor: pointer;
+      -webkit-transition: 0.4s all;
+      -moz-transition: 0.4s all;
+      transition: 0.4s all;
+    }
+  
+    .youtube-player img:hover {
+      -webkit-filter: brightness(75%);
+    }
+  
+    .youtube-player .play {
+      /* height: 500px; */
+      /* width: 260px; */
+      left: 50%;
+      top: 50%;
+      margin-left: -34px;
+      margin-top: -24px;
+      position: absolute;
+      background: url('https://i.ibb.co/j3jcJKv/yt.png') no-repeat;
+      cursor: pointer;
+    }
+  </style>
+<style>
+ 
+    .row_icon {
+       display: flex;
+       
+    }
+
+
+    @media (min-width: 768px) {
+        .row_icon {           
+            justify-content: space-between;
+        }
+    }
+
+    @media (max-width: 767px) {
+        .row_icon {
+            display: flex;
+    flex-wrap: wrap;
+        }
+    }
+
+  </style>
+<section class="Industry-management-section">
+<div class="container">
+<div class="row align-items-center">
+<div class="col-md-4">
+<div class="Industry-management-section-left center-title">
+<div class="title-div">
+<h3 class="title-bg-heading"><span>Have you heard, what the Stars have to say?</span></h3>
+<h5>Recognized excellence by the top celebrities.</h5>
+<p>Get the inside scoop - top celebrities share their thoughts on working with StarClinch.</p>
+</div>
+</div>
+</div>
+<div class="col-md-8">
+<div class="img-slider" style="display: flex; align-items: center;">
+<div class="mobile-navigation-div">
+<div class="swiper-button-prev-mobile_center_slide"></div>
+</div>
+<div class="swiper-container mobile_center_slide">
+<div class="swiper-wrapper">
+<div class="swiper-slide">
+<div class="mobile-feature-img" style="display: block !important;">
+<div class="youtube-player" data-id="Yct6yjbtlvo"></div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="mobile-feature-img" style="display: block !important;">
+<div class="youtube-player" data-id="pX01jZ2gd8M"></div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="mobile-feature-img" style="display: block !important;">
+<div class="youtube-player" data-id="wsulXicLD8w"></div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="mobile-feature-img" style="display: block !important;">
+<div class="youtube-player" data-id="5LnJaKGonmg"></div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="mobile-feature-img" style="display: block !important;">
+<div class="youtube-player" data-id="wHbEAdWAHYg"></div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="mobile-feature-img" style="display: block !important;">
+<div class="youtube-player" data-id="9_SRWFryFSg"></div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="mobile-feature-img" style="display: block !important;">
+<div class="youtube-player" data-id="6SBPH6LEPI8"></div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="mobile-feature-img" style="display: block !important;">
+<div class="youtube-player" data-id="ulxJr-ivWfk"></div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="mobile-feature-img" style="display: block !important;">
+<div class="youtube-player" data-id="8HCDO8Twy98"></div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="mobile-feature-img" style="display: block !important;">
+<div class="youtube-player" data-id="2PO9-cTCWcM"></div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="mobile-feature-img" style="display: block !important;">
+<div class="youtube-player" data-id="DZjea8vuD8E"></div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="mobile-feature-img" style="display: block !important;">
+<div class="youtube-player" data-id="GGyiyKAETTY"></div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="mobile-feature-img" style="display: block !important;">
+<div class="youtube-player" data-id="dloIAA0tEWs"></div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="mobile-feature-img" style="display: block !important;">
+<div class="youtube-player" data-id="smIO7QC6ThE"></div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="mobile-feature-img" style="display: block !important;">
+<div class="youtube-player" data-id="Uwu-N8QheWE"></div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="mobile-feature-img" style="display: block !important;">
+<div class="youtube-player" data-id="cnoC6pt6Pec"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="mobile-navigation-div">
+
+<div class="swiper-button-next-mobile_center_slide"></div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="book-artist-section">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<div class="center-title">
+<div class="title-div">
+<h3 class="title-bg-heading"><span>Book your Stars</span></h3>
+<h5>Client satisfaction is our ultimate goal.</h5>
+<p>Driven by client feedback and ready to walk the extra mile.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12">
+<ul id="tabs" class="nav nav-tabs" role="tablist">
+<li class="nav-item">
+<a id="tab-B" href="#pane-B" class="nav-link" data-toggle="tab" role="tab"><img class="lazy img-fluid" data-src="/static/images/home/singer_icon.svg" alt>
+Singer</a>
+</li>
+<li class="nav-item">
+<a id="tab-A" href="#pane-A" class="nav-link active" data-toggle="tab" role="tab"><img class="lazy img-fluid" data-src="/static/images/home/live_band_icon.svg" alt>
+Live band</a>
+</li>
+<li class="nav-item">
+<a id="tab-C" href="#pane-C" class="nav-link" data-toggle="tab" role="tab"><img class="lazy img-fluid" data-src="/static/images/home/comedian_new_icon.svg" alt> Comedian</a>
+</li>
+<li class="nav-item">
+<a id="tab-D" href="#pane-D" class="nav-link" data-toggle="tab" role="tab"><img class="lazy img-fluid" data-src="/static/images/home/dj_icon.svg" alt> Dj</a>
+</li>
+<li class="nav-item">
+<a id="tab-E" href="#pane-E" class="nav-link" data-toggle="tab" role="tab"><img class="lazy img-fluid" data-src="/static/images/home/instrumentialist_icon.svg" alt> Anchor</a>
+</li>
+</ul>
+<div id="content" class="tab-content" role="tablist">
+<div id="pane-A" class="card tab-pane fade show active" role="tabpanel" aria-labelledby="tab-A">
+<div class="card-body">
+
+<div class="liveBand-slider">
+<div class="swiper-container swiper_book_artist">
+<div class="swiper-wrapper" style="height: auto;">
+<a href="/when-chai-met-toast/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/when-chai-met-toast/when-chai-met-toast-1.jpg" width="400" height="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>When Chai Met Toast</h4>
+<p style="height:120px;">From the blissful state of Kerala, they
+are a blessing to the music lovers.</p>
+<a class="btn" href="/when-chai-met-toast/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/sanam/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" src="https://cdn.starclinch.in/artist/sanam/sanam-1.jpg" width="400" height="400" alt="A view of the sea" loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Sanam</h4>
+<p style="height:120px;">Sanam became an instant hit among the
+Indian teenagers with their 'Hawa Hawa' and 'Behka'!</p>
+<a class="btn" href="/sanam/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/the-yellow-diary/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/the-yellow-diary/the-yellow-diary-2.jpg" width="400" height="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>The Yellow Diary</h4>
+<p style="height:120px;">The Yellow Diary is a Mumbai-based band that aims at making music that strikes the balance between being experimental and entertaining</p>
+<a class="btn" href="/the-yellow-diary/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/euphoria/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/euphoria/euphoria-1.jpg" width="400" height="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Euphoria</h4>
+<p style="height:120px;">Euphoria, a band which is a music
+sensation, gives electrifying performances when they come on
+stage!</p>
+<a class="btn" href="/euphoria/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/nalayak-the-band/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/nalayak-the-band/nalayak-the-band-3.jpg" width="400" height="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Nalayak The Band</h4>
+<p style="height:120px;">Their music is quite different which sets them apart from other mainstream bands; they are non-commercial artists and follow indie pop genre!</p>
+<a class="btn" href="/nalayak-the-band/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/antariksh/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/antariksh/antariksh-2.jpg" width="400" height="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Antariksh</h4>
+<p style="height:120px;">Rated by MTV as one of the best Hindi Rock Bands in India, Antariksh led by Music Composer Varun Rajput is constantly pushing the boundaries of Hindi Rock music</p>
+<a class="btn" href="/antariksh/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/aswekeepsearching/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/aswekeepsearching/aswekeepsearching-3.jpg" width="400" height="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Aswekeepsearching</h4>
+<p style="height:120px;">As We Keep Searching is a Post-Rock/Ambient band expressing emotions, life experiences and feelings in the form of instrumental music with some vocals</p>
+<a class="btn" href="/aswekeepsearching/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/parikrama/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/parikrama/parikrama-1.jpg" width="400" height="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Parikrama</h4>
+<p style="height:120px;">Parikrama is a legendary rock band, playing Classic Rock based music, fused with Indian Instruments like Tabla & Violin, and has been around for 23 years</p>
+<a class="btn" href="/parikrama/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/indian-ocean/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/indian-ocean/indian-ocean-1.jpg" width="400" height="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Indian Ocean</h4>
+<p style="height:120px;">Formed in the early '90s, Indian Ocean has been one of the spearheads of the Indian rock scene</p>
+<a class="btn" href="/indian-ocean/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/threeory/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/threeory/threeory-1.jpg" width="400" height="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Threeory</h4>
+<p style="height:120px;">Threeory is an experimental fusion band that blends Indian classical with different sub-genres of world music</p>
+<a class="btn" href="/threeory/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+
+<div class="swiper-button-next-swiper_book_artist"></div>
+<div class="swiper-button-prev-swiper_book_artist"></div>
+</div>
+</div>
+</div>
+<div id="pane-B" class="card tab-pane fade" role="tabpanel" aria-labelledby="tab-B">
+<div class="card-body">
+
+<div class="liveBand-slider">
+<div class="swiper-container swiper_book_artist">
+<div class="swiper-wrapper">
+<a href="/darshan-raval-238507/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/darshan-raval-238507/darshan-raval-238507-1.jpg" height="400" width="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Darshan Raval</h4>
+<p style="height:120px;">The winner of India's Raw star, Darshan
+Raval is making big in the film industry with his phenomenal
+singing skills</p>
+<a class="btn" href="/darshan-raval-238507/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/yo-yo-honey-singh/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/yo-yo-honey-singh/yo-yo-honey-singh-1.jpg" height="400" width="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Yo Yo Honey Singh</h4>
+<p style="height:120px;">Yo Yo Honey Singh is an Indian music
+producer, composer, rapper, singer, lyricist and film actor
+who is popular for his chartbuster bhangra hip-hop numbers
+like Angreji Beat (2011), Dope Shope (2011), and Lungi Dance
+(2013).</p>
+<a class="btn" href="/yo-yo-honey-singh/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/diljit-dosanjh/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" src="https://cdn.starclinch.in/artist/diljit-dosanjh/diljit-dosanjh-1.jpg" height width alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Diljit Dosanjh</h4>
+<p style="height:120px;">Diljit Dosanjh, the superstar of
+Punjabi Industry who also made his bollywood debut with the
+film "Udtaa Punjab"!</p>
+<a class="btn" href="/diljit-dosanjh/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/neha-kakkar/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" src="https://cdn.starclinch.in/artist/neha-kakkar/neha-kakkar-1.jpg" height width alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Neha Kakkar</h4>
+<p style="height:120px;">Neha Kakkar is the powerhouse of talent, diversifying towards playback singing, dancing and acting!!</p>
+<a class="btn" href="/neha-kakkar/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/badshah/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" src="https://cdn.starclinch.in/artist/badshah/badshah-5.jpg" height width alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Badshah</h4>
+<p style="height:120px;">Badshah is an award-winning rapper, music producer and lyricist; he is a well-known face from the Indian music industry!!</p>
+<a class="btn" href="/badshah/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/parmish-verma/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" src="https://cdn.starclinch.in/artist/parmish-verma/parmish-verma-1.jpg" height width alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Parmish Verma</h4>
+<p style="height:120px;">Parmish Verma is prominent name in Punjabi entertainment industry; he is a film director, actor and a superb singer as well!</p>
+<a class="btn" href="/parmish-verma/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/millind-gaba/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" src="https://cdn.starclinch.in/artist/millind-gaba/millind-gaba-1.jpg" height width alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Millind Gaba</h4>
+<p style="height:120px;">Millind Gaba, a singer, performer and an artist who can fire up the stage with his stylish singing and cool attitude!</p>
+<a class="btn" href="/millind-gaba/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/jassi-gill/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" src="https://cdn.starclinch.in/artist/jassi-gill/jassi-gill-1.jpg" height width alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Jassi Gill</h4>
+<p style="height:120px;">Famous Punjabi singer and actor who has done Punjabi films with Gauhar khan and Sagarika Ghatge!</p>
+<a class="btn" href="/jassi-gill/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/hardy-sandhu/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" src="https://cdn.starclinch.in/artist/hardy-sandhu/hardy-sandhu-1.jpg" height width alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Hardy Sandhu</h4>
+<p style="height:120px;">He is a famous Punjabi singer whose song, 'Soch' was a massive hit in all over India!</p>
+<a class="btn" href="/hardy-sandhu/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/jasmine-sandlas/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" src="https://cdn.starclinch.in/artist/jasmine-sandlas/jasmine-sandlas-1.jpg" height width alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Jasmine Sandlas</h4>
+<p style="height:120px;">Jasmine Sandlas, a playback singer who has given the Bollywood hit song 'Yaar Na Miley'; she is also a songwriter!</p>
+<a class="btn" href="/jasmine-sandlas/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+
+<div class="swiper-button-next-swiper_book_artist"></div>
+<div class="swiper-button-prev-swiper_book_artist"></div>
+</div>
+</div>
+</div>
+<div id="pane-C" class="card tab-pane fade" role="tabpanel" aria-labelledby="tab-C">
+<div class="card-body">
+
+<div class="liveBand-slider">
+<div class="swiper-container swiper_book_artist">
+<div class="swiper-wrapper">
+<a href="/zakir-khan/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/zakir-khan/zakir-khan-1.jpg" height="400" width="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Zakir Khan</h4>
+<p style="height:120px;">A coming-of-the-age comedian, he has
+changed the way people look at standup comedy.</p>
+<a class="btn" href="/zakir-khan/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/anubhav-singh-bassi/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/anubhav-singh-bassi/anubhav-singh-bassi-1.jpg" height="400" width="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>ANUBHAV SINGH BASSI</h4>
+<p style="height:120px;">Having tried his hands in many things,
+he has finally settled as a Comedian.</p>
+<a class="btn" href="/anubhav-singh-bassi/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/aakash-gupta/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/aakash-gupta/aakash-gupta-1.jpg" height="400" width="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Aakash Gupta</h4>
+<p style="height:120px;">His comedy talks about his experiences
+and observations ranging from his grandmother's taunts to
+the life in a corporate office and to his dad's car!</p>
+<a class="btn" href="/aakash-gupta/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/gaurav-kapoor/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/gaurav-kapoor/gaurav-kapoor-1.jpg" height="400" width="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Gaurav Kapoor</h4>
+<p style="height:120px;">Recently covered by NDTV's Rising Starts of Comedy, his observational Hinglish comedy covers Bollywood, ethnicity, corporate culture, weddings, and childhood!</p>
+<a class="btn" href="/gaurav-kapoor/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/rahul-subramanian/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/rahul-subramanian/rahul-subramanian-1.jpg" height="400" width="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Rahul Subramanian</h4>
+<p style="height:120px;">One of the best comedians in India, participated in India's first ever YouTube comedy hunt and won the competition!</p>
+<a class="btn" href="/rahul-subramanian/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/appurv-gupta/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/appurv-gupta/appurv-gupta-5.jpg" height="400" width="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Appurv Gupta</h4>
+<p style="height:120px;">Appurv Gupta-GuptaJi is listed by CNN-IBN in top 20 comedian to watch out for.Forbes India had listed his name in the Forbes India Celebrity 100 Nominees list.</p>
+<a class="btn" href="/appurv-gupta/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/angad-singh-ranyal/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/angad-singh-ranyal/angad-singh-ranyal-1.jpg" height="400" width="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Angad Singh Ranyal</h4>
+<p style="height:120px;">Angad Singh Ranyal is a famous comedian who is versatile and humorous in a natural way!</p>
+<a class="btn" href="/angad-singh-ranyal/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/sumit-anand/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/sumit-anand/sumit-anand-1.jpg" height="400" width="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Sumit Anand</h4>
+<p style="height:120px;">One of the freshest new acts from India, Sumit's energy on stage is highly infectious; when he is on stage, it's a laugh riot!</p>
+<a class="btn" href="/sumit-anand/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/jaspreet-singh/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://wpcdn.starclinch.in/2019/02/7961aa41-687d-4bfd-a684-b8c4432e13a2.jpg" height="400" width="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Jaspreet Singh</h4>
+<p style="height:120px;">A very innocent-looking guy who derives most of his humor from the things happening in his house and around him in the city!</p>
+<a class="btn" href="/jaspreet-singh/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/sahil-shah/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/sahil-shah/sahil-shah-3.jpg" height="400" width="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Sahil Shah</h4>
+<p style="height:120px;">Sahil Shah is one of the youngest comedians who is also performing at a professional level across the country!</p>
+<a class="btn" href="/sahil-shah/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+
+<div class="swiper-button-next-swiper_book_artist"></div>
+<div class="swiper-button-prev-swiper_book_artist"></div>
+</div>
+</div>
+</div>
+<div id="pane-D" class="card tab-pane fade" role="tabpanel" aria-labelledby="tab-D">
+<div class="card-body">
+
+<div class="liveBand-slider">
+<div class="swiper-container swiper_book_artist">
+<div class="swiper-wrapper">
+<a href="/dj-chetas/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/dj-chetas/dj-chetas-1.jpg" height="400" width="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>DJ Chetas</h4>
+<p style="height:120px;">A renowned DJ who has played all across
+the globe and has been making people dance; he believes that
+'Life Is a Mashup'!</p>
+<a class="btn" href="/dj-chetas/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/olly-esse/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/olly-esse/olly-esse-5.jpg" height="400" width="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>OLLY ESSE</h4>
+<p>One of Italy''s finest female DJs, Olly Esse has been all
+around the world, destroying decks everywhere she plays</p>
+<a class="btn" href="/olly-esse/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/dj-aqeel/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/dj-aqeel/dj-aqeel-1.jpg" height="400" width="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>DJ Aqeel</h4>
+<p style="height:120px;">Aqeel is the only Indian DJ to fill up
+concert size venues internationally and can make you rock to
+his tunes all night!</p>
+<a class="btn" href="/dj-aqeel/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/suketu/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/suketu/suketu-4.jpg" height="400" width="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Suketu</h4>
+<p style="height:120px;">A name who redefined remixes in the industry and has mastered the art to create chartbusters</p>
+<a class="btn" href="/suketu/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/dj-nyk/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/dj-nyk/dj-nyk-1.jpg" height="400" width="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>DJ NYK</h4>
+<p style="height:120px;">With a fan base crossing over 1 lakh 80 thousand and a multiple-world-tour repertoire to boast of, he is the cynosure of all eyes and ears alike!</p>
+<a class="btn" href="/dj-nyk/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/dj-gouri/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/dj-gouri/dj-gouri-4.jpg" height="400" width="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>DJ Gouri</h4>
+<p style="height:120px;">DJ Gouri is a cute and hot girl that makes a boring party the most happening one, through her music!</p>
+<a class="btn" href="/dj-gouri/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/siana-catherine/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://wpcdn.starclinch.in/2019/03/57025.jpg" height="400" width="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Siana Catherine</h4>
+<p style="height:120px;">An electric DJ that has performed LIVE in across the world, and is ready to take the dance floor by storm!</p>
+<a class="btn" href="/siana-catherine/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/julia-bliss/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/julia-bliss/julia-bliss-1.jpg" height="400" width="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Julia Bliss</h4>
+<p style="height:120px;">With a superbly crafted career that literally began behind the console, the dance music heroine floods the streets of India with her musical takeover!</p>
+<a class="btn" href="/julia-bliss/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/nina-and-malika/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/nina-and-malika/nina-and-malika-1.jpg" height="400" width="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Nina and Malika</h4>
+<p style="height:120px;">One of the very few electronic music duos in the county, taking the electronic music scene by storm!</p>
+<a class="btn" href="/nina-and-malika/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/sartek/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/sartek/sartek-1.jpg" height="400" width="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Sartek</h4>
+<p style="height:120px;">Sartek was the first DJ to be signed to Revealed Recordings and Cloud9 Music Publishing!</p>
+<a class="btn" href="/sartek/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+
+<div class="swiper-button-next-swiper_book_artist"></div>
+<div class="swiper-button-prev-swiper_book_artist"></div>
+</div>
+</div>
+</div>
+<div id="pane-E" class="card tab-pane fade" role="tabpanel" aria-labelledby="tab-E">
+<div class="card-body">
+
+<div class="liveBand-slider">
+<div class="swiper-container swiper_book_artist">
+<div class="swiper-wrapper">
+<a href="/sonam-chhabra/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/sonam-chhabra/sonam-chhabra-1.jpg" height="400" width="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Sonam Chhabra</h4>
+<p style="height:120px;">An anchor who really knows how to pull
+up an event whether it is a corporate event or an
+entertainment show!</p>
+<a class="btn" href="/sonam-chhabra/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/siddharth-kannan/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/siddharth-kannan/siddharth-kannan-1.jpg" height="400" width="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Siddharth Kannan</h4>
+<p style="height:120px;">Popularly known as Sid K, Siddharth is
+considered one of the trendsetters and pioneers in radio,
+LIVE events, TV shows, and voice-over projects!</p>
+<a class="btn" href="/siddharth-kannan/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/manish-paul/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/manish-paul/manish-paul-3.jpg" height="400" width="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Manish Paul</h4>
+<p style="height:120px;">Manish Paul is possibly the best and
+most versatile host, celebrities and actor; he has performed
+worldwide at several high-ended venues!</p>
+<a class="btn" href="/manish-paul/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/danish-sait/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/danish-sait/danish-sait-1.jpg" height="400" width="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Danish Sait</h4>
+<p style="height:120px;">An anchor, writer, and an RJ as well, his talent set is quite vast.</p>
+<a class="btn" href="/danish-sait/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/lincia-jewel-rosario/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/lincia-jewel-rosario/lincia-jewel-rosario-1.jpg" height="400" width="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Lincia Jewel Rosario</h4>
+<p style="height:120px;">She believes in offering a personal and efficient service to make sure the event is a memorable one and enjoyed by all!</p>
+<a class="btn" href="/lincia-jewel-rosario/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/sachin-kumbhar/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/sachin-kumbhar/sachin-kumbhar-1.jpg" height="400" width="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Sachin Kumbhar</h4>
+<p style="height:120px;">Sachin Kumbhar is an anchor, voice-over artist, and a radio broadcaster with over ten years of international experience!</p>
+<a class="btn" href="/sachin-kumbhar/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/dj-hussain/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/dj-hussain/dj-hussain-2.jpg" height="400" width="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>DJ Hussain</h4>
+<p style="height:120px;">Hussain will blow you away with his amazing mixes and top Bollywood numbers, and will make you croon for more!</p>
+<a class="btn" href="/dj-hussain/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/rochelle-rao/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/rochelle-rao/rochelle-rao-1.jpg" height="400" width="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Rochelle Rao</h4>
+<p style="height:120px;">Rochelle Rao is an Indian model and anchor who was also crowned Femina Miss India International in 2012!</p>
+<a class="btn" href="/rochelle-rao/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/shruti-seth/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/shruti-seth/shruti-seth-1.jpg" height="400" width="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Shruti Seth</h4>
+<p style="height:120px;">Shruti Seth is a professional anchor based out of the finance capital of India, Mumbai; She has acted in many serials and films as well</p>
+<a class="btn" href="/shruti-seth/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+<a href="/kubbra-sait/">
+<div class="swiper-slide">
+<div class="live-band-items">
+<div class="live-band-img">
+<img class="lazy img-fluid" data-src="https://cdn.starclinch.in/artist/kubbra-sait/kubbra-sait-1.jpg" height="400" width="400" alt loading="lazy">
+</div>
+<div class="live-band-btm-cnt center-title">
+<h4>Kubbra Sait</h4>
+<p style="height:120px;">Winner of India''s Best Female Emcee Award, Kubbra Sait is one of the most admired and celebrated anchors in the LIVE entertainment business</p>
+<a class="btn" href="/kubbra-sait/">See Price</a>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+
+<div class="swiper-button-next-swiper_book_artist"></div>
+<div class="swiper-button-prev-swiper_book_artist"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="more-category-section">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<div class="center-title">
+<div class="title-div">
+<h3 class="title-bg-heading"><span>Explore categories</span></h3>
+<h5>Browse to Discover</h5>
+<p>Browse the 20000+ Stars' portfolios.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12">
+<div class="same-slider-section might-interested-slider">
+<div class="container">
+<div id="owl-might-interested" class="owl-carousel owl-theme">
+<div class="item">
+<a href="/book-anchor-online">
+<img class="lazy img-fluid" src="/static/mobile/images/profile/book-anchor-online.webp" alt>
+</a>
+</div>
+<div class="item">
+<a href="/book-celebrity-online">
+<img class="lazy img-fluid" src="/static/mobile/images/profile/book-celebrity-online.webp" alt>
+</a>
+</div>
+<div class="item">
+<a href="/book-comedian-online">
+<img class="lazy img-fluid" src="/static/mobile/images/profile/book-comedian-online.webp" alt>
+</a>
+</div>
+<div class="item">
+<a href="/book-dancer-online">
+<img class="lazy img-fluid" src="/static/mobile/images/profile/book-dancer-online.webp" alt>
+</a>
+</div>
+<div class="item">
+<a href="/book-dj-online">
+<img class="lazy img-fluid" src="/static/mobile/images/profile/book-dj-online.webp" alt>
+</a>
+</div>
+<div class="item">
+<a href="/book-instrumentalist-online">
+<img class="lazy img-fluid" src="/static/mobile/images/profile/book-instrumentalist-online.webp" alt>
+</a>
+</div>
+<div class="item">
+<a href="/book-band-online">
+<img class="lazy img-fluid" src="/static/mobile/images/profile/book-band-online.webp" alt>
+</a>
+</div>
+<div class="item">
+<a href="/book-magician-online">
+<img class="lazy img-fluid" src="/static/mobile/images/profile/book-magician-online.webp" alt>
+</a>
+</div>
+<div class="item">
+<a href="/book-makeup-artist-online">
+<img class="lazy img-fluid" src="/static/mobile/images/profile/book-makeup-artist-online.webp" alt>
+</a>
+</div>
+<div class="item">
+<a href="/book-model-online">
+<img class="lazy img-fluid" src="/static/mobile/images/profile/book-model-online.webp" alt>
+</a>
+</div>
+<div class="item">
+<a href="/book-photographer-online">
+<img class="lazy img-fluid" src="/static/mobile/images/profile/book-photographer-online.webp" alt>
+</a>
+</div>
+<div class="item">
+<a href="/book-singer-online">
+<img class="lazy img-fluid" src="/static/mobile/images/profile/book-singer-online.webp" alt>
+</a>
+</div>
+<div class="item">
+<a href="/book-speaker-online">
+<img class="lazy img-fluid" src="/static/mobile/images/profile/book-speaker-online.webp" alt>
+</a>
+</div>
+<div class="item">
+<a href="/book-variety-artist-online">
+<img class="lazy img-fluid" src="/static/mobile/images/profile/book-variety-artist-online.webp" alt>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="talent-with-starclinch-section talent-with-starclinch-section-new">
+<div class="container">
+<div class>
+<h5 style="text-align: center; color: #ECEFF1;">Committed to excellence since 2015.</h5>
+<p style="text-align: center; color: #ECEFF1;">With StarClinch, you can browse and hire the best celebrities in India with just a few clicks.</p>
+</div>
+<div class="justify-content-between align-items-center center-title">
+<div class=" col-lg-5 col-xl-4">
+<div class="talent-with-starclinch-section-right">
+<div class="row_icon">
+<div class="col-6 col-sm-6 col-md-6">
+<div class="talent-with-starclinch-section-new-item">
+<div class="talent-with-starclinch-section-new-item-top">
+<img class="lazy img-fluid" data-src="/static/images/dotcom/management_artist.svg" alt="20000+ artist management" loading="lazy" />
+</div>
+<div class="talent-with-starclinch-section-new-item-btm">
+<p>Celebrities</p>
+<h4>25K+</h4>
+</div>
+</div>
+</div>
+<div class="col-6 col-sm-6 col-md-6">
+<div class="talent-with-starclinch-section-new-item">
+<div class="talent-with-starclinch-section-new-item-top">
+<img class="lazy img-fluid" data-src="/static/images/dotcom/mins_of_stage_time.svg" alt="400+ Mins of Stage times" loading="lazy" />
+</div>
+<div class="talent-with-starclinch-section-new-item-btm">
+<p>Mins Stage Times</p>
+<h4>2M+</h4>
+</div>
+</div>
+</div>
+<div class="col-6 col-sm-6 col-md-6">
+<div class="talent-with-starclinch-section-new-item">
+<div class="talent-with-starclinch-section-new-item-top">
+<img class="lazy img-fluid" data-src="/static/images/dotcom/performances.svg" alt="8000+ Performance" loading="lazy" />
+</div>
+<div class="talent-with-starclinch-section-new-item-btm">
+<p>Performances</p>
+<h4>12K+</h4>
+</div>
+</div>
+</div>
+<div class="col-6 col-sm-6 col-md-6">
+<div class="talent-with-starclinch-section-new-item">
+<div class="talent-with-starclinch-section-new-item-top">
+<img class="lazy img-fluid" data-src="/static/images/dotcom/worth_booking.svg" alt="Booking Worth  Rs10Cr" loading="lazy" />
+</div>
+<div class="talent-with-starclinch-section-new-item-btm">
+<p>Worth Booking</p>
+<h4>₹24Cr+</h4>
+</div>
+</div>
+</div>
+<div class="col-6 col-sm-6 col-md-6">
+<div class="talent-with-starclinch-section-new-item">
+<div class="talent-with-starclinch-section-new-item-top">
+<img class="lazy img-fluid" data-src="/static/images/dotcom/cities.png" alt="20000+ artist management" loading="lazy" />
+</div>
+<div class="talent-with-starclinch-section-new-item-btm">
+<p>Cities</p>
+<h4>100+</h4>
+</div>
+</div>
+</div>
+<div class="col-6 col-sm-6 col-md-6">
+<div class="talent-with-starclinch-section-new-item">
+<div class="talent-with-starclinch-section-new-item-top">
+<img class="lazy img-fluid" data-src="/static/images/dotcom/catageries.png" alt="20000+ artist management" loading="lazy" />
+</div>
+<div class="talent-with-starclinch-section-new-item-btm">
+<p>Category</p>
+<h4>150+</h4>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="artist-signup-section">
+<div class="container">
+<div class="row align-items-center">
+<div class="col-md-7">
+<div class="pyr-right center-title">
+<div class="pyr-other-img">
+<img class="lazy img-fluid" data-src="/static/images/home/pyr_other.svg" alt loading="lazy">
+</div>
+
+<h3>You name the occasion. We'll bring the stars.</span></h3>
+<a href="/book">Post Your Requirement</a>
+</div>
+</div>
+<div class="col-md-5">
+<div class="sign-up-left">
+<video poster="static/images/home.webp" controls preload="none">
+<source defer src="/static/dotcom/WhatsApp_Video_ten.webm" type="video/webm">
+</video>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="talent-with-starclinch-section">
+<div class="container">
+<div class="row justify-content-between align-items-center center-title">
+<div class="col-md-6">
+<div class="talent-with-starclinch-section-left">
+<div class="left-title">
+<div class="title-div">
+<h5>Are you an celebrities looking for gigs?</h5>
+<p>Make an online presence right now!</p>
+<ul>
+<li><img class="lazy img-fluid" data-src="/static/images/dotcom/tick_mark.svg" /> Exclusive
+Listing</li>
+<li><img class="lazy img-fluid" data-src="/static/images/dotcom/tick_mark.svg" /> Artist
+Cockpit</li>
+<li><img class="lazy img-fluid" data-src="/static/images/dotcom/tick_mark.svg" /> Gig
+Recommendations</li>
+<li><img class="lazy img-fluid" data-src="/static/images/dotcom/tick_mark.svg" /> Apply on
+Gigs</li>
+<li><img class="lazy img-fluid" data-src="/static/images/dotcom/tick_mark.svg" /> View Profile
+Insights</li>
+</ul>
+<a class="sign-up-link btn" href="/artist">Sign up
+<img class="lazy img-fluid" data-src="/static/images/dotcom/sign_up_icon.svg" /></a>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="talent-with-starclinch-section-right talent-with-starclinch-section-right-signup">
+<img class="lazy img-fluid" data-src="/static/images/dotcom/talent_with_starclinch.svg" loading="lazy" />
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="testimonials-section">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<div class="center-title">
+<div class="title-div">
+<h3 class="title-bg-heading"><span>Testimonials</span></h3>
+<h5>Happy Clients Equals To Happy Us</h5>
+<p>We always thrive for the best and our clients feedback is what motivates us<br/> to achieve
+that extra mile.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="row justify-content-between d-none">
+<div class="col-6 col-sm-6 col-md-auto mb-3 mb-sm-3">
+<div class="row no-gutters">
+<div class="col-auto">
+<div class="review-items-left">
+<img class="lazy img-fluid" data-src="/static/images/home/google_review.svg" />
+</div>
+</div>
+<div class="col-auto">
+<div class="review-items-right">
+<p>
+4.6
+<span class="rating-div" style="color:#FFDA44;">
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star-half-full" aria-hidden="true"></i>
+<i class="fa fa-star-o" aria-hidden="true"></i>
+</span>
+</p>
+<p>38 Reviews</p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-6 col-sm-6 col-md-auto mb-3 mb-sm-3">
+<div class="row no-gutters">
+<div class="col-auto">
+<div class="review-items-left">
+<img class="lazy img-fluid" data-src="/static/images/home/justdial_review.svg" />
+</div>
+</div>
+<div class="col-auto">
+<div class="review-items-right">
+<p>
+4.6
+<span class="rating-div" style="color:#FFDA44;">
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star-half-full" aria-hidden="true"></i>
+<i class="fa fa-star-o" aria-hidden="true"></i>
+</span>
+</p>
+<p>38 Reviews</p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-6 col-sm-6 col-md-auto mb-3 mb-sm-3">
+<div class="row no-gutters">
+<div class="col-auto">
+<div class="review-items-left">
+<img class="lazy img-fluid" data-src="/static/images/home/facebook_review.svg" />
+</div>
+</div>
+<div class="col-auto">
+<div class="review-items-right">
+<p>
+4.6
+<span class="rating-div" style="color:#FFDA44;">
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star-half-full" aria-hidden="true"></i>
+<i class="fa fa-star-o" aria-hidden="true"></i>
+</span>
+</p>
+<p>38 Reviews</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12">
+
+<div class="testimonials-slider">
+<div class="swiper-container testimonial_slider">
+<div class="swiper-wrapper">
+<div class="slide">
+<div class="swiper-slide">
+<div class="row align-items-center">
+<div class="col-sm-12 col-md-12">
+<div class="testimonial-slider-right center-title">
+<div class="testimonial-slider-right-top">
+<p>"Had a great time working with the StarClinch team. One of the
+most professional event companies and takes great care of the
+artists and their requirements. Thanks a lot. Looking forward to
+work again and
+enjoy the hospitality Cheers"</p>
+</div>
+<div class="testimonial-slider-right-bottom">
+<h4>Humorously Yours Team</h4>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slide">
+<div class="swiper-slide">
+<div class="row align-items-center">
+<div class="col-sm-12 col-md-12">
+<div class="testimonial-slider-right center-title">
+<div class="testimonial-slider-right-top">
+<p>"StarClinch is a great idea. In an industry filled with amateurs,
+StarClinch is very professional and effective. - happy artist."
+</p>
+</div>
+<div class="testimonial-slider-right-bottom">
+<h4>Nalin Vyas
+</h4>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slide">
+<div class="swiper-slide">
+<div class="row align-items-center">
+<div class="col-sm-12 col-md-12">
+<div class="testimonial-slider-right center-title">
+<div class="testimonial-slider-right-top">
+<p>"We've hired multiple comedians and anchors through StarClinch.
+The team is very helpful and goes above and beyond for their
+clients."</p>
+</div>
+<div class="testimonial-slider-right-bottom">
+<h4> Abhishek Nayak</h4>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slide">
+<div class="swiper-slide">
+<div class="row align-items-center">
+<div class="col-sm-12 col-md-12">
+<div class="testimonial-slider-right center-title">
+<div class="testimonial-slider-right-top">
+<p>Great platform for budding artists. Here, you are dealing with
+professional. Proper documentation is done for any gig. I am
+highly satisfied with the service and recommend it to others.
+</p>
+</div>
+<div class="testimonial-slider-right-bottom">
+<h4>Ruchi Singh
+</h4>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slide">
+<div class="swiper-slide">
+<div class="row align-items-center">
+<div class="col-sm-12 col-md-12">
+<div class="testimonial-slider-right center-title">
+<div class="testimonial-slider-right-top">
+<p>"It was the first time experience with StarClinch... And must
+they are the best at their job... Well coordinated team.. And
+trustworthy with their suggestions and decisions... Looking
+forward to work with
+them in future for sure... Keep up the good work guys."</p>
+</div>
+<div class="testimonial-slider-right-bottom">
+<h4>Aditya Goyal
+</h4>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slide">
+<div class="swiper-slide">
+<div class="row align-items-center">
+<div class="col-sm-12 col-md-12">
+<div class="testimonial-slider-right center-title">
+<div class="testimonial-slider-right-top">
+<p>"Okay so that was really great working with a punctual team and
+the coordination was amazing. Lovely people and perfect answers
+to every questions. Event went well. StarClinch is doing really
+nice. Love"</p>
+</div>
+<div class="testimonial-slider-right-bottom">
+<h4>Rupali Guha
+</h4>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div id="prevBtn" class="swiper-button-prev-testimonial_slider">
+<img class="lazy img-fluid" data-src="/static/images/dotcom/testimonial_slider_prev_icon.svg" />
+</div>
+<div id="nextBtn" class="swiper-button-next-testimonial_slider">
+<img class="lazy img-fluid" data-src="/static/images/dotcom/testimonial_slider_prev_icon.svg" />
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="our-brands-section">
+<div class="container">
+<div class="row justify-content-between center-title">
+<div class="col-md-5">
+<div class="title-div">
+<h3 class="title-bg-heading"><span>We cover all the corners!</span></h3>
+<h5>Your Events. Our Stars.</h5>
+<p>StarClinch is revolutionizing the live entertainment industry by providing a comprehensive
+solution for booking artists, from selection to payment. It's the easiest and most efficient way
+to hire celebrities for events.</p>
+</div>
+<div class="our-brand-list">
+<ul>
+<li><i class="fa fa-check-circle" aria-hidden="true"></i>
+<p style="text-align: left;">Browse Talent</p>
+</li>
+<li><i class="fa fa-check-circle" aria-hidden="true"></i>
+<p style="text-align: left;">Reliable Booking</p>
+</li>
+<li><i class="fa fa-check-circle" aria-hidden="true"></i>
+<p style="text-align: left;">Hassle-free Refunds</p>
+</li>
+<li><i class="fa fa-check-circle" aria-hidden="true"></i>
+<p style="text-align: left;">You're imminent to an epic event</p>
+</li>
+</ul>
+</div>
+</div>
+
+<div class="col-md-6">
+<div class="our-running-brand">
+<div class="our-brand-right">
+<img class="lazy img-fluid" src="/static/images/dotcom/our_brand_logos_new.svg" loading="lazy" />
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<style>
+
+    .mai_sce{
+        display: flex;
+    }
+
+
+
+    .imag_play {
+      height: 60px;
+      border-radius: 10px;
+    }
+    .imag_play_app {
+        height: 60px;
+        margin-right: 10px;
+    }
+  
+    @media (max-width: 768px) {
+      
+      .imag_play {
+        border-radius: 10px;
+        max-height: 35px;
+        margin-right: 10px;
+
+      }
+      .imag_play_app {
+        border-radius: 10px; 
+        padding-right: 5px;
+        max-height: 35px;
+
+      }
+      .mai_sce{
+        width: max-content;
+      }
+      
+    }
+  </style>
+<section class="talent-with-starclinch-section">
+<div class="container">
+<div class="row justify-content-between align-items-center center-title">
+<div class="col-md-6">
+<div class="talent-with-starclinch-section-left">
+<div class="left-title">
+<div class="title-div">
+<a href="/coming-soon">
+<p style="color: #ECEFF1;font-size: 30px;font-weight: 700;     text-align: start;font-family: math;">Coming soon on your device</p>
+
+<ul class="mai_sce">
+
+<li><img class="lazy img-fluid imag_play" style="margin-right: 10px;" data-src="https://cdn.starclinch.in/artist/Thumbnails/app-store-icon.png" /> </li>
+<li><img class="lazy img-fluid imag_play_app" data-src="https://cdn.starclinch.in/artist/Thumbnails/Google_play_icon.png" /></li>
+</ul>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="talent-with-starclinch-section-right talent-with-starclinch-section-right-signup" style="display: block !important;">
+<a href="/coming-soon">
+<img class="lazy img-fluid" data-src="/static/images/dotcom/app.png" loading="lazy" />
+</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="recent-post-section">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+</div>
+</div>
+<div class="row" id="blog-post">
+</div>
+</div>
+</section>
+
+<script type="0a40159672ac69a8fd73c60c-text/javascript">
+    function chatBot() {
+        return {
+            prompts: [
+                ["hi", "hey", "hello", "good morning", "good afternoon"],
+                ["how are you", "how is life", "how are things"],
+                ["what are you doing", "what is going on", "what is up"],
+                ["how old are you"],
+                ["who are you", "are you human", "are you bot", "are you human or bot"],
+                ["who created you", "who made you"],
+                ["your name please", "your name", "may i know your name", "what is your name", "what call yourself"],
+                ["i love you"],
+                ["happy", "good", "fun", "wonderful", "fantastic", "cool"],
+                ["bad", "bored", "tired"],
+                ["help me", "tell me story", "tell me joke"],
+                ["ah", "yes", "ok", "okay", "nice"],
+                ["bye", "good bye", "goodbye", "see you later"],
+                ["what should i eat today"],
+                ["bro"],
+                ["what", "why", "how", "where", "when"],
+                ["no", "not sure", "maybe", "no thanks"],
+                [""],
+                ["haha", "ha", "lol", "hehe", "funny", "joke"],
+                ["flip a coin", "heads or tails", "tails or heads", "head or tails", "head or tail", "tail or heads", "tail or head"],
+                ["beer","buy me a beer","want a beer"]
+            ],
+            replies: [
+                ["Hello!", "Hi!", "Hey!", "Hi there!", "Howdy"],
+                ["Fine... how are you?", "Pretty well, how are you?", "Fantastic, how are you?"],
+                ["Nothing much", "About to go to sleep", "Can you guess?", "I don't know actually"],
+                ["I am infinite"],
+                ["I am just a bot", "I am a bot. What are you?"],
+                ["The one true God, JavaScript"],
+                ["I am nameless", "I don't have a name"],
+                ["I love you too", "Me too"],
+                ["Have you ever felt bad?", "Glad to hear it"],
+                ["Why?", "Why? You shouldn't!", "Try watching TV"],
+                ["What about?", "Once upon a time..."],
+                ["Tell me a story", "Tell me a joke", "Tell me about yourself"],
+                ["Bye", "Goodbye", "See you later"],
+                ["Sushi", "Pizza"],
+                ["Bro!"],
+                ["Great question"],
+                ["That's ok", "I understand", "What do you want to talk about?"],
+                ["Please say something :("],
+                ["Haha!", "Good one!"],
+                ["Heads", "Tails"],
+                ["You can buy me a beer at: <a href=\"https://www.buymeacoffee.com/scottwindon\" target=\"_blank\" style=\"text-decoration:underline;\">https://www.buymeacoffee.com/scottwindon</a>"]
+            ],
+            alternative: ["Same", "Go on...", "Bro...", "Try again", "I'm listening...", "I don't understand :/"],
+            coronavirus: ["Please stay home", "Wear a mask", "Fortunately, I don't have COVID", "These are uncertain times"],
+            botTyping: false,
+            messages: [{
+                from: 'bot',
+                text: 'What are you looking for?'
+            }],
+            output: function(input) {
+                let product;
+    
+                // Regex remove non word/space chars
+                // Trim trailing whitespce
+                // Remove digits - not sure if this is best
+                // But solves problem of entering something like 'hi1'
+    
+                let text = input.toLowerCase().replace(/[^\w\s]/gi, "").replace(/[\d]/gi, "").trim();
+                text = text
+                    .replace(/ a /g, " ") // 'tell me a story' -> 'tell me story'
+                    .replace(/i feel /g, "")
+                    .replace(/whats/g, "what is")
+                    .replace(/please /g, "")
+                    .replace(/ please/g, "")
+                    .replace(/r u/g, "are you");
+    
+                if (this.compare(this.prompts, this.replies, text)) {
+                    // Search for exact match in `prompts`
+                    product = this.compare(this.prompts, this.replies, text);
+                } else if (text.match(/thank/gi)) {
+                    product = "You're welcome!"
+                } else if (text.match(/(corona|covid|virus)/gi)) {
+                    // If no match, check if message contains `coronavirus`
+                    product = this.coronavirus[Math.floor(Math.random() * this.coronavirus.length)];
+                } else {
+                    // If all else fails: random this.alternative
+                    product = this.alternative[Math.floor(Math.random() * this.alternative.length)];
+                }
+    
+                // Update DOM
+                this.addChat(input, product);
+            },
+            compare: function(promptsArray, repliesArray, string) {
+                let reply;
+                let replyFound = false;
+                for (let x = 0; x < promptsArray.length; x++) {
+                    for (let y = 0; y < promptsArray[x].length; y++) {
+                        if (promptsArray[x][y] === string) {
+                            let replies = repliesArray[x];
+                            reply = replies[Math.floor(Math.random() * replies.length)];
+                            replyFound = true;
+                            // Stop inner loop when input value matches this.prompts
+                            break;
+                        }
+                    }
+                    if (replyFound) {
+                        // Stop outer loop when reply is found instead of interating through the entire array
+                        break;
+                    }
+                }
+                if (!reply) {
+                    for (let x = 0; x < promptsArray.length; x++) {
+                        for (let y = 0; y < promptsArray[x].length; y++) {
+                            if (this.levenshtein(promptsArray[x][y], string) >= 0.75) {
+                                let replies = repliesArray[x];
+                                reply = replies[Math.floor(Math.random() * replies.length)];
+                                replyFound = true;
+                                // Stop inner loop when input value matches this.prompts
+                                break;
+                            }
+                        }
+                        if (replyFound) {
+                            // Stop outer loop when reply is found instead of interating through the entire array
+                            break;
+                        }
+                    }
+                }
+                return reply;
+            },
+            levenshtein: function(s1, s2) {
+                var longer = s1;
+                var shorter = s2;
+                if (s1.length < s2.length) {
+                    longer = s2;
+                    shorter = s1;
+                }
+                var longerLength = longer.length;
+                if (longerLength == 0) {
+                    return 1.0;
+                }
+                return (longerLength - this.editDistance(longer, shorter)) / parseFloat(longerLength);
+            },
+            editDistance: function(s1, s2) {
+                s1 = s1.toLowerCase();
+                s2 = s2.toLowerCase();
+    
+                var costs = new Array();
+                for (var i = 0; i <= s1.length; i++) {
+                    var lastValue = i;
+                    for (var j = 0; j <= s2.length; j++) {
+                        if (i == 0)
+                            costs[j] = j;
+                        else {
+                            if (j > 0) {
+                                var newValue = costs[j - 1];
+                                if (s1.charAt(i - 1) != s2.charAt(j - 1))
+                                    newValue = Math.min(Math.min(newValue, lastValue),
+                                        costs[j]) + 1;
+                                costs[j - 1] = lastValue;
+                                lastValue = newValue;
+                            }
+                        }
+                    }
+                    if (i > 0)
+                        costs[s2.length] = lastValue;
+                }
+                return costs[s2.length];
+            },
+            addChat: function(input, product) {
+    
+                // Add user message
+                this.messages.push({
+                    from: 'user',
+                    text: input
+                });
+    
+                // Keep messages at most recent
+                this.scrollChat();
+    
+                // Fake delay to seem "real"
+                setTimeout(() => {
+                    this.botTyping = true;
+                    this.scrollChat();
+                    window.location=window.location+ "search?q=" + encodeURIComponent(input);
+                }, 100)
+    
+                // add bit message with Fake delay to seem "real"
+                // setTimeout(() => {
+                //     this.botTyping = false;
+                //     this.messages.push({
+                //         from: 'bot',
+                //         text: product
+                //     });
+                //     this.scrollChat();
+                // }, ((product.length / 10) * 1000) + (Math.floor(Math.random() * 2000) + 1500))
+    
+            },
+            scrollChat: function() {
+                const messagesContainer = document.getElementById("messages");
+                messagesContainer.scrollTop = messagesContainer.scrollHeight - messagesContainer.clientHeight;
+                setTimeout(() => {
+                    messagesContainer.scrollTop = messagesContainer.scrollHeight - messagesContainer.clientHeight;
+                }, 100);
+            },
+            updateChat: function(target) {
+                if (target.value.trim()) {
+                    this.output(target.value.trim());
+                    target.value = '';
+                }
+            }
+        }
+    }
+    </script>
+<script type="0a40159672ac69a8fd73c60c-text/javascript">
+    
+    var previousPlayingVideo = null;
+    var currentlyPlayingVideo = null;
+  
+    function labnolIframe(div) {
+      var iframe = document.createElement('iframe');
+      
+      iframe.setAttribute('src', 'https://www.youtube.com/embed/' + div.dataset.id + '?autoplay=1&enablejsapi=1');
+      iframe.setAttribute('frameborder', '0');
+      iframe.setAttribute('allowfullscreen', '1');
+      iframe.setAttribute('modestbranding', '0');
+      iframe.setAttribute('loop', '1');
+      iframe.setAttribute('allow', 'accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture');
+      div.parentNode.replaceChild(iframe, div);
+      currentlyPlayingVideo = iframe
+    
+    if (previousPlayingVideo) {
+
+            console.log("yess");
+            previousPlayingVideo.contentWindow.postMessage('{"event":"command","func":"pauseVideo","args":""}', '*');
+            currentlyPlayingVideo = iframe;        
+        }
+        previousPlayingVideo=currentlyPlayingVideo;
+
+    }
+  
+    function initYouTubeVideos() {
+      var playerElements = document.querySelectorAll('.youtube-player');
+      for (var n = 0; n < playerElements.length; n++) {
+        var videoId = playerElements[n].dataset.id;
+        var div = document.createElement('div');
+        div.setAttribute('data-id', videoId);
+        var thumbNode = document.createElement('img');
+        // thumbNode.src = '//i.ytimg.com/vi/ID/hqdefault.jpg'.replace('ID', videoId);
+        thumbNode.src = 'https://cdn.starclinch.in/artist/Thumbnails/ID.png'.replace('ID', videoId);;
+        thumbNode.alt = 'Thumbnail for YouTube Video ' + videoId;
+        div.appendChild(thumbNode);
+        var playButton = document.createElement('div');
+        playButton.setAttribute('class', 'play');
+        // document.getElementById('playButton').style.display  = 'none';
+        div.appendChild(playButton);
+        div.onclick = function () {
+          labnolIframe(this);
+        };
+        playerElements[n].appendChild(div);
+      }
+    }
+  
+    document.addEventListener('DOMContentLoaded', initYouTubeVideos);
+  </script>
+
+
+<footer class="footer-classic-dark bg-extra-dark-gray padding-30px-bottom sm-padding-30px-bottom">
+<div class="bg-dark-footer padding-50px-tb sm-padding-30px-tb">
+<div class="container">
+<div class="row align-items-center">
+
+<div class="col-lg-4 col-md-5 text-center alt-font sm-margin-15px-bottom">
+<div class="top-footer-left" style="text-align: start;">
+<p>India's Largest Marketplace of Professional Artists</p>
+</div>
+</div>
+
+
+<div class="col-lg-4 col-md-2 text-center sm-margin-10px-bottom">
+<div class="top-footer-middle">
+<a href="/">
+<img class="footer-logo" src="/static/images/home/StarClinch-Logo-white.svg" alt="StarClinch">
+</a>
+</div>
+</div>
+
+
+<div class="col-lg-4 col-md-5 text-center">
+<div class="top-footer-right">
+<span class="alt-font margin-20px-right">On social networks</span>
+<div class="social-icon-style-8 d-inline-block vertical-align-middle">
+<ul class="small-icon mb-0">
+<li><a class="facebook text-white-2" href="https://www.facebook.com/starclinchpage/" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-facebook" viewBox="0 0 16 16">
+<path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z" />
+</svg></a></li>
+<li><a class="twitter text-white-2" href="https://twitter.com/StarClinch" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16">
+<path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z" />
+</svg></a></li>
+<li><a class="youtube text-white-2" href="https://www.youtube.com/starclinch" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-youtube" viewBox="0 0 16 16">
+<path d="M8.051 1.999h.089c.822.003 4.987.033 6.11.335a2.01 2.01 0 0 1 1.415 1.42c.101.38.172.883.22 1.402l.01.104.022.26.008.104c.065.914.073 1.77.074 1.957v.075c-.001.194-.01 1.108-.082 2.06l-.008.105-.009.104c-.05.572-.124 1.14-.235 1.558a2.007 2.007 0 0 1-1.415 1.42c-1.16.312-5.569.334-6.18.335h-.142c-.309 0-1.587-.006-2.927-.052l-.17-.006-.087-.004-.171-.007-.171-.007c-1.11-.049-2.167-.128-2.654-.26a2.007 2.007 0 0 1-1.415-1.419c-.111-.417-.185-.986-.235-1.558L.09 9.82l-.008-.104A31.4 31.4 0 0 1 0 7.68v-.123c.002-.215.01-.958.064-1.778l.007-.103.003-.052.008-.104.022-.26.01-.104c.048-.519.119-1.023.22-1.402a2.007 2.007 0 0 1 1.415-1.42c.487-.13 1.544-.21 2.654-.26l.17-.007.172-.006.086-.003.171-.007A99.788 99.788 0 0 1 7.858 2h.193zM6.4 5.209v4.818l4.157-2.408L6.4 5.209z" />
+</svg></a></li>
+<li><a class="instagram text-white-2" href="https://www.instagram.com/starclinch" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
+<path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.917 3.917 0 0 0-1.417.923A3.927 3.927 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.916 3.916 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.926 3.926 0 0 0-.923-1.417A3.911 3.911 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0h.003zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599.28.28.453.546.598.92.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.47 2.47 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.478 2.478 0 0 1-.92-.598 2.48 2.48 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233 0-2.136.008-2.388.046-3.231.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92.28-.28.546-.453.92-.598.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045v.002zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92zm-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217zm0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334z" />
+</svg></a></li>
+</ul>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+<div class="footer-widget-area padding-five-top padding-30px-bottom sm-padding-30px-top center">
+<div class="container">
+<div class="row">
+
+<div class="col-lg-3 col-md-6 widget md-margin-30px-bottom text-center text-md-left last-paragraph-no-margin">
+<div class="footer-bottom-item">
+<div class="widget-title alt-font text-small text-medium-gray text-uppercase margin-15px-bottom font-weight-600">LEGAL ENTITY:</div>
+<p class="text-medium width-98 sm-width-100">
+VINSM Globe Private Limited <br>
+GSTIN : 07AAFCK1574R1ZX <br>
+CIN : U52605DL2012PTC236944<br>
+Phone: <a href="tel:+91 7042 88 4270">+91 7042 88 4270</a>
+</p>
+
+<div class="widget-title alt-font text-small text-medium-gray text-uppercase margin-15px-bottom font-weight-600 text-center text-md-left"></div>
+<ul class="list-unstyled position-relative">
+<li class=" border-color-medium-dark-gray">
+<div class="media-body text-medium"><a href="/book" class="d-block mb-1">Contact Us</a></div>
+</li>
+<li class="border-color-medium-dark-gray" hidden>
+<div class="media-body text-medium"><a onclick="if (!window.__cfRLUnblockHandlers) return false; " class="d-block mb-1" data-cf-modified-0a40159672ac69a8fd73c60c->Chat With Us <img alt="svgImg" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4Igp3aWR0aD0iMzYiIGhlaWdodD0iMzYiCnZpZXdCb3g9IjAgMCAyMjYgMjI2IgpzdHlsZT0iIGZpbGw6IzAwMDAwMDsiPjxnIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0ibm9uemVybyIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1saW5lY2FwPSJidXR0IiBzdHJva2UtbGluZWpvaW49Im1pdGVyIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS1kYXNoYXJyYXk9IiIgc3Ryb2tlLWRhc2hvZmZzZXQ9IjAiIGZvbnQtZmFtaWx5PSJub25lIiBmb250LXdlaWdodD0ibm9uZSIgZm9udC1zaXplPSJub25lIiB0ZXh0LWFuY2hvcj0ibm9uZSIgc3R5bGU9Im1peC1ibGVuZC1tb2RlOiBub3JtYWwiPjxwYXRoIGQ9Ik0wLDIyNnYtMjI2aDIyNnYyMjZ6IiBmaWxsPSJub25lIj48L3BhdGg+PGc+PHBhdGggZD0iTTExMywxOC44MzMzM2MtNDkuNDM3NSwwIC04OS40NTgzMywzOC4xMzc1IC04OS40NTgzMyw4NC43NWMwLDI0LjQ4MzMzIDEwLjgyOTE3LDQ2LjE0MTY3IDI4LjI1LDYxLjY3OTE3djQxLjkwNDE3bDM2LjcyNSwtMjIuMTI5MTdjNy41MzMzMywxLjg4MzMzIDE2LjAwODMzLDMuMjk1ODMgMjQuNDgzMzMsMy4yOTU4M2M0OS40Mzc1LDAgODkuNDU4MzMsLTM4LjEzNzUgODkuNDU4MzMsLTg0Ljc1YzAsLTQ2LjYxMjUgLTQwLjAyMDgzLC04NC43NSAtODkuNDU4MzMsLTg0Ljc1eiIgZmlsbD0iI2ZhM2M0YyI+PC9wYXRoPjxwYXRoIGQ9Ik01Ni41LDEzMS44MzMzM2w0Ny4wODMzMywtNTEuNzkxNjdsMjMuNTQxNjcsMjMuNTQxNjdsNDIuMzc1LC0yMy41NDE2N2wtNDcuMDgzMzMsNTEuNzkxNjdsLTIzLjU0MTY3LC0yMy41NDE2N3oiIGZpbGw9IiNmZmZmZmYiPjwvcGF0aD48L2c+PC9nPjwvc3ZnPg=="></a></div>
+</li>
+<script type="0a40159672ac69a8fd73c60c-text/javascript">
+                                function fbchatt2() {
+                                    console.log('inside fb mess hide function2')
+                                var x = document.getElementById("fb-root");
+                                if (x.style.display === "none") {
+                                    console.log('inside if func 2')
+
+                                    x.style.display = "block";
+                                } else {
+                                    console.log('inside else func 2')
+
+                                    x.style.display = "none";
+                                }
+                                }
+                            </script>
+</ul>
+
+</div>
+</div>
+
+
+<div class="col-lg-3 col-md-6 widget md-margin-30px-bottom text-center text-md-left">
+<div class="footer-bottom-item">
+<div class="widget-title alt-font text-small text-medium-gray text-uppercase margin-15px-bottom font-weight-600 text-center text-md-left">For Buyers</div>
+<ul class="list-unstyled position-relative">
+<li class="border-color-medium-dark-gray">
+<div class="text-medium"><a href="/our-buyers" class="d-block mb-1">Our Buyers</a></div>
+</li>
+<li class="border-color-medium-dark-gray">
+<div class=" text-medium"><a href="/browse" class="d-block mb-1">Browse</a></div>
+</li>
+<li class>
+<div class=" text-medium"><a href="/book" class="d-block mb-1">Post Your Requirement</a></div>
+</li>
+
+</ul>
+<br>
+
+
+
+
+</div>
+</div>
+
+
+<div class="col-lg-3 col-md-6 widget md-margin-30px-bottom text-center text-md-left">
+<div class="footer-bottom-item">
+<div class="widget-title alt-font text-small text-medium-gray text-uppercase margin-15px-bottom font-weight-600">
+About Us</div>
+<ul class="list-unstyled position-relative">
+<li class=" border-color-medium-dark-gray">
+<div class="text-medium"><a href="/our-story" class="d-block mb-1">Our Story</a></div>
+</li>
+<li class="border-color-medium-dark-gray">
+<div class="text-medium"><a href="https://starclinch.zohorecruit.in/jobs/Careers" class="d-block mb-1">Careers</a></div>
+</li>
+<li class="border-color-medium-dark-gray">
+<div class="text-medium"><a href="/" class="d-block mb-1">Blog</a></div>
+</li>
+</ul>
+<br>
+</div>
+</div>
+<div class="col-lg-3 col-md-6 widget md-margin-30px-bottom text-center text-md-left">
+<div class="footer-bottom-item">
+<div class="widget-title alt-font text-small text-medium-gray text-uppercase margin-15px-bottom font-weight-600">
+Policy</div>
+<ul class="list-unstyled position-relative">
+<li class=" border-color-medium-dark-gray">
+<div class="text-medium"><a href="/privacy-policy" class="d-block mb-1">Privacy Policy</a> </div>
+</li>
+<li class="border-color-medium-dark-gray">
+<div class="text-medium"><a href="/terms-of-use" class="d-block mb-1">Terms of Use</a></div>
+</li>
+<li class="border-color-medium-dark-gray">
+<div class="text-medium"><a href="/disclaimer" class="d-block mb-1">Disclaimer</a></div>
+</li>
+<li class="border-color-medium-dark-gray">
+<div class="text-medium"><a href="/faqs" class="d-block mb-1">FAQs</a></div>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+<div class="container">
+<div class="footer-bottom border-top border-color-medium-dark-gray padding-30px-top">
+<div class="row">
+
+<div class="col-lg-12 col-md-12 text-small text-md-center text-center">
+<p class="copy-right-para">&COPY; Copyright 2015<script type="0a40159672ac69a8fd73c60c-text/javascript">new Date().getFullYear()>2010&&document.write("-"+new Date().getFullYear());</script> | VINSM Globe Pvt. Ltd. | All Rights Reserved.</p>
+</div>
+
+</div>
+</div>
+</div>
+</footer>
+
+
+<a class="scroll-top-arrow" style="display: none;" href="javascript:void(0);"><i class="ti-arrow-up"></i></a>
+
+<link href="https://code.jquery.com/ui/1.10.2/themes/smoothness/jquery-ui.min.css" rel="Stylesheet" />
+<link rel="stylesheet" href="/static/css/footer.css?a=21">
+
+<script type="0a40159672ac69a8fd73c60c-text/javascript" src="/static/js/circliful.min.js"></script>
+<script src="https://code.jquery.com/ui/1.10.2/jquery-ui.min.js" type="0a40159672ac69a8fd73c60c-text/javascript"></script>
+
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="0a40159672ac69a8fd73c60c-|49" defer></script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"893300962bd20f80","r":1,"version":"2024.4.1","token":"94ddb57258a9452389a727707bf4af52"}' crossorigin="anonymous"></script>
+</body>
+<script src="/static/mobile/js/custom-new.js" type="0a40159672ac69a8fd73c60c-text/javascript"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/vue@2.6.11" type="0a40159672ac69a8fd73c60c-text/javascript"></script>
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.min.js" integrity="sha512-VZ6m0F78+yo3sbu48gElK4irv2dzPoep8oo9LEjxviigcnnnNvnTOJRSrIhuFk68FMLOpiNz+T77nNY89rnWDg==" crossorigin="anonymous" referrerpolicy="no-referrer" type="0a40159672ac69a8fd73c60c-text/javascript"></script>
+<script defer type="0a40159672ac69a8fd73c60c-text/javascript" type="text/javascript">
+    window.GUMLET_CONFIG = {
+        auto_webp: true,
+        lazy_load: true,
+        hosts: [{
+            current: "wpcdn.starclinch.in",
+            gumlet: "wpcdn.starclinch.in",
+        }, {
+            current: "cdn.starclinch.in",
+            gumlet: "cdn.starclinch.in",
+        }, ],
+    };
+</script>
+
+
+<script defer src="https://apis.google.com/js/platform.js" async defer type="0a40159672ac69a8fd73c60c-text/javascript"></script>
+
+<script defer src="/static/js/gumlet.min.js" type="0a40159672ac69a8fd73c60c-text/javascript"></script>
+
+<script defer src="/static/js/circliful.min.js" type="0a40159672ac69a8fd73c60c-text/javascript"></script>
+<script src="/static/mobile/js/bootstrap.min.js" type="0a40159672ac69a8fd73c60c-text/javascript"></script>
+<script defer src="/static/js/cmp.js" type="0a40159672ac69a8fd73c60c-text/javascript"></script>
+
+
+
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw==" crossorigin="anonymous" referrerpolicy="no-referrer" type="0a40159672ac69a8fd73c60c-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha512-ldc1sPu1FZ8smgkgp+HwnYyVb1eRn2wEmKrDg1JqPEb02+Ei4kNzDIQ0Uwh0AJVLQFjJoWwG+764x70zy5Tv4A==" crossorigin="anonymous" referrerpolicy="no-referrer" type="0a40159672ac69a8fd73c60c-text/javascript"></script>
+<script src="https://code.jquery.com/ui/1.12.0/jquery-ui.min.js" integrity="sha256-eGE6blurk5sHj+rmkfsGYeKyZx3M4bG+ZlFyA7Kns7E=" crossorigin="anonymous" type="0a40159672ac69a8fd73c60c-text/javascript"></script>
+<script type="0a40159672ac69a8fd73c60c-text/javascript">
+    $(".filter-txt-left").click(function() {
+        $(".filters").toggleClass("filters-show-hide")
+    });
+</script>
+<script type="0a40159672ac69a8fd73c60c-text/javascript">
+    $("ul").on("click", "li", function() {
+        var a = $(this).index() + 2;
+        $("tr").find("td:not(:eq(0))").hide();
+        $("td:nth-child(" + a + ")").css("display", "table-cell");
+        $("tr").find("th:not(:eq(0))").hide();
+        $("li").removeClass("active");
+        $(this).addClass("active")
+    });
+    var mediaQuery = window.matchMedia("(min-width: 768px)");
+    mediaQuery.addListener(doSomething);
+
+    function doSomething(a) {
+        if (a.matches) {
+            $(".sep").attr("colspan", 5)
+        } else {
+            $(".sep").attr("colspan", 2)
+        }
+    }
+    doSomething(mediaQuery);
+</script>
+
+<script type="0a40159672ac69a8fd73c60c-text/javascript">
+    document.addEventListener("click", (e) => {
+        !e.target.classList.contains("dropdown-link") &&
+            !$(".browse-by-category")[0].contains(e.target) &&
+            $(".browse-by-category")[0].classList.remove("activate");
+        !e.target.classList.contains("dropdown-link") &&
+            !$(".aritist-dropdown-div")[0].contains(e.target) &&
+            $(".aritist-dropdown-div")[0].classList.remove("activate");
+    });
+</script>
+<script src="/static/mobile/js/swiper.min.js" type="0a40159672ac69a8fd73c60c-text/javascript"></script>
+<script async type="0a40159672ac69a8fd73c60c-text/javascript">
+    function toggleControls() {
+        var slides = $(".mobile_center_slide");
+        for (var i = 0; i < slides.length; i++) {
+            let video = $(slides[i]).find(".mobile-feature-img > video");
+            video.trigger('pause');
+            video.attr("controls", false);
+        }
+        try {
+            var active = $(".swiper-slide-active > .mobile-feature-img > video")[0];
+            active.controls = true;
+            // active.load();
+        } catch {
+            
+            // console.log('error')
+        }
+    }
+
+
+    var swiper_featured = new Swiper('.swiper_featured', {
+        slidesPerView: 4,
+        spaceBetween: 15,
+        navigation: {
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev',
+        },
+        breakpoints: {
+            320: {
+                slidesPerView: 2,
+                spaceBetween: 15,
+            },
+            576: {
+                slidesPerView: 2,
+                spaceBetween: 15,
+            },
+            768: {
+                slidesPerView: 3,
+                spaceBetween: 15,
+            },
+            992: {
+                slidesPerView: 4,
+                spaceBetween: 15,
+            },
+            1024: {
+                slidesPerView: 4,
+                spaceBetween: 82,
+            }
+        }
+    });
+
+    var swiper_liveband = new Swiper('.swiper_liveband', {
+        slidesPerView: 3,
+        spaceBetween: 15,
+        navigation: {
+            nextEl: '.swiper-button-next-liveband',
+            prevEl: '.swiper-button-prev-liveband',
+        },
+        breakpoints: {
+            320: {
+                slidesPerView: 1,
+                spaceBetween: 0,
+            },
+            576: {
+                slidesPerView: 2,
+                spaceBetween: 15,
+            },
+            992: {
+                slidesPerView: 4,
+                spaceBetween: 15,
+            },
+            1024: {
+                slidesPerView: 3,
+                spaceBetween: 52,
+            }
+        }
+    });
+
+    var swiper = new Swiper('.mobile_center_slide', {
+        slidesPerView: 3,
+        spaceBetween: 20,
+        loop: true,
+        navigation: {
+            nextEl: '.swiper-button-next-mobile_center_slide',
+            prevEl: '.swiper-button-prev-mobile_center_slide',
+        },
+        breakpoints: {
+            320: {
+                slidesPerView: 1,
+                spaceBetween: 0,
+            },
+            576: {
+                slidesPerView: 3,
+                spaceBetween: 15,
+            },
+            768: {
+                slidesPerView: 2,
+                spaceBetween: 15,
+            },
+            992: {
+                slidesPerView: 3,
+                spaceBetween: 15,
+            },
+            1024: {
+                slidesPerView: 3,
+                spaceBetween: 15,
+            }
+        },
+        on: {
+            transitionEnd: function() {
+                toggleControls()
+            }
+        }
+    });
+
+
+
+
+    var mySwiper = new Swiper('.swiper_book_artist', {
+        loop: true,
+        navigation: {
+            nextEl: '.swiper-button-next-swiper_book_artist',
+            prevEl: '.swiper-button-prev-swiper_book_artist',
+        },
+        breakpoints: {
+            320: {
+                slidesPerView: 1,
+                spaceBetween: 0,
+            },
+            576: {
+                slidesPerView: 2,
+                spaceBetween: 15,
+            },
+            992: {
+                slidesPerView: 3,
+                spaceBetween: 15,
+            },
+            1024: {
+                slidesPerView: 3,
+                spaceBetween: 52,
+            }
+        }
+    });
+    $('a[data-toggle="tab"]').on('shown.bs.tab', function(e) {
+        var paneTarget = $(e.target).attr('href');
+        var $thePane = $('.tab-pane' + paneTarget);
+        var paneIndex = $thePane.index();
+        if ($thePane.find('.swiper_book_artist').length > 0 && 0 === $thePane.find('.swiper-slide-active').length) {
+            mySwiper[paneIndex].update();
+        }
+    });
+    var testimonial_slider = new Swiper('.testimonial_slider', {
+        slidesPerView: 1,
+        spaceBetween: 0,
+        navigation: {
+            nextEl: '.swiper-button-next-testimonial_slider',
+            prevEl: '.swiper-button-prev-testimonial_slider',
+        },
+    });
+</script>
+<script async type="0a40159672ac69a8fd73c60c-text/javascript">
+    var upcoming_events_slider = new Swiper('.upcoming_events_slider', {
+        slidesPerView: 1,
+        spaceBetween: 15,
+        navigation: {
+            nextEl: '.swiper-button-next-upcoming_events_slider',
+            prevEl: '.swiper-button-prev-upcoming_events_slider',
+        },
+    });
+</script>
+
+
+
+
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw==" crossorigin="anonymous" referrerpolicy="no-referrer" async type="0a40159672ac69a8fd73c60c-text/javascript"></script>
+<script type="0a40159672ac69a8fd73c60c-text/javascript">
+var slides = document.getElementsByClassName("slide");
+var prevBtn = document.getElementById("prevBtn");
+var nextBtn = document.getElementById("nextBtn");
+
+var currentSlide = 0;
+showSlide(currentSlide);
+
+function showSlide(n) {
+    for (var i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";
+    }
+
+    slides[n].style.display = "block";
+
+    if (n === 0) {
+    prevBtn.classList.add("hidden");
+    } else {
+    prevBtn.classList.remove("hidden");
+    }
+
+    if (n === slides.length - 1) {
+    nextBtn.classList.add("hidden");
+    } else {
+    nextBtn.classList.remove("hidden");
+    }
+}
+
+function prevSlide() {
+    console.log(currentSlide);
+    if (currentSlide > 0) {
+    currentSlide--;
+    showSlide(currentSlide);
+    }
+}
+
+function nextSlide() {
+    console.log(currentSlide);
+
+    if (currentSlide < slides.length - 1) {
+    currentSlide++;
+    showSlide(currentSlide);
+    }
+}
+
+prevBtn.addEventListener("click", prevSlide);
+nextBtn.addEventListener("click", nextSlide);
+
+</script>
+<script async type="0a40159672ac69a8fd73c60c-text/javascript">
+    (function() {
+        var artist_list = [
+                'Anchor',
+                'Celebrity',
+                'Comedian',
+                'Dancer',
+                'DJ',
+                'Instrumentalist',
+                'Live Band',
+                'Magician',
+                'Makeup Artist',
+                'Model',
+                'Photographer',
+                'Singer',
+                'Speaker',
+                'Variety Artist',
+            ]
+
+        var event_list = [
+                'Wedding',
+                'Video Shoutout',
+                'Restaurant',
+                'Religious',
+                'Professional Hiring',
+                'Private',
+                'Photo/Video Shoot',
+                'Kids',
+                'Inauguration',
+                'Fashion Show',
+                'Exhibition',
+                'Corporate',
+                'Charity',
+                'Campus',
+                'Concert/Festival',
+            ]
+
+            let not_print=[['Model','Private']];
+
+        
+
+        setInterval(function() {
+            let random_artist=artist_list[Math.floor(Math.random() * artist_list.length)]; 
+            let random_event=event_list[Math.floor(Math.random() * event_list.length)];
+            // console.log(random_artist,random_event)
+            if (random_event =='Religious' && random_artist !='Singer'){
+                // console.log("Invalid Combination");
+                return;
+            }
+            not_print.forEach(element => {
+                if (random_artist==element[0] && random_event==element[1]){
+                    // console.log("Invalid combination");
+                    return;
+                }
+            });
+
+                $('#changingword').fadeOut(function() {
+                    $(this).html(random_artist).fadeIn();
+                });
+                $('#changingevent').fadeOut(function() {
+                $(this).html(random_event).fadeIn();
+            });
+
+            }, 3000);
+
+
+
+    })();
+</script>
+<script async type="0a40159672ac69a8fd73c60c-text/javascript">
+    (function() {
+        var artist_list = [
+                'Anchor',
+                'Celebrity',
+                'Comedian',
+                'Dancer',
+                'DJ',
+                'Instrumentalist',
+                'Live Band',
+                'Magician',
+                'Makeup Artist',
+                'Model',
+                'Photographer',
+                'Singer',
+                'Speaker',
+                'Variety Artist',
+            ]
+
+        var event_list = [
+                'Wedding',
+                'Video Shoutout',
+                'Restaurant',
+                'Religious',
+                'Professional Hiring',
+                'Private',
+                'Photo/Video Shoot',
+                'Kids',
+                'Inauguration',
+                'Fashion Show',
+                'Exhibition',
+                'Corporate',
+                'Charity',
+                'Campus',
+                'Concert/Festival',
+            ]
+
+            let not_print=[['Model','Private']];
+
+        
+
+        setInterval(function() {
+            let random_artist=artist_list[Math.floor(Math.random() * artist_list.length)]; 
+            let random_event=event_list[Math.floor(Math.random() * event_list.length)];
+            // console.log(random_artist,random_event)
+            if (random_event =='Religious' && random_artist !='Singer'){
+                // console.log("Invalid Combination");
+                return;
+            }
+            not_print.forEach(element => {
+                if (random_artist==element[0] && random_event==element[1]){
+                    // console.log("Invalid combination");
+                    return;
+                }
+            });
+
+                $('#changingword').fadeOut(function() {
+                    $(this).html(random_artist).fadeIn();
+                });
+                $('#changingevent').fadeOut(function() {
+                $(this).html(random_event).fadeIn();
+            });
+
+            }, 3000);
+
+
+
+    })();
+</script>
+</html>
